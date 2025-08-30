@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.content {
+    width: 600px;
+    margin: 20px auto;
+    padding: 5px;
+    background: lightblue;
+}
+
+.content ul li {
+    margin: 6px;
+}
+
+.content ol li {
+    margin: 3px;
+}
+
+.content a {
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+    text-decoration: none;
+    background: lightcoral;
+    padding: 2px;
+    margin: 2px;
+}
+
+.content a:hover {
+    color: lightgoldenrodyellow;
+}
+
+.content img {
+    max-width: 100%;
+}
+
+.content h1,h2 {
+    text-align: center;
+    margin: 4px 0 4px 0;
+}
+
+.content h2 {
+    color: lightgoldenrodyellow;
+}
